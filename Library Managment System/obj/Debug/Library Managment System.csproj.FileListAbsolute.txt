@@ -1,0 +1,19 @@
+c:\users\mr.nobody\documents\visual studio 2015\Projects\Library Managment System\Library Managment System\bin\Debug\Library Managment System.exe.config
+C:\Users\Mr.Nobody\documents\visual studio 2015\Projects\Library Managment System\Library Managment System\bin\Debug\Library Managment System.exe
+C:\Users\Mr.Nobody\documents\visual studio 2015\Projects\Library Managment System\Library Managment System\bin\Debug\Library Managment System.pdb
+C:\Users\Mr.Nobody\documents\visual studio 2015\Projects\Library Managment System\Library Managment System\obj\Debug\Library Managment System.csprojResolveAssemblyReference.cache
+C:\Users\Mr.Nobody\documents\visual studio 2015\Projects\Library Managment System\Library Managment System\obj\Debug\Library_Managment_System.Splash.resources
+C:\Users\Mr.Nobody\documents\visual studio 2015\Projects\Library Managment System\Library Managment System\obj\Debug\Library_Managment_System.Properties.Resources.resources
+C:\Users\Mr.Nobody\documents\visual studio 2015\Projects\Library Managment System\Library Managment System\obj\Debug\Library Managment System.csproj.GenerateResource.Cache
+C:\Users\Mr.Nobody\documents\visual studio 2015\Projects\Library Managment System\Library Managment System\obj\Debug\Library Managment System.exe
+C:\Users\Mr.Nobody\documents\visual studio 2015\Projects\Library Managment System\Library Managment System\obj\Debug\Library Managment System.pdb
+C:\Users\Mr.Nobody\documents\visual studio 2015\Projects\Library Managment System\Library Managment System\obj\Debug\Library_Managment_System.DashBoard.resources
+C:\Users\Mr.Nobody\documents\visual studio 2015\Projects\Library Managment System\Library Managment System\obj\Debug\Library_Managment_System.Login.resources
+C:\Users\Mr.Nobody\documents\visual studio 2015\Projects\Library Managment System\Library Managment System\obj\Debug\Library_Managment_System.SignUp.resources
+C:\Users\Mr.Nobody\documents\visual studio 2015\Projects\Library Managment System\Library Managment System\obj\Debug\Library_Managment_System.AboutUs.resources
+C:\Users\Mr.Nobody\documents\visual studio 2015\Projects\Library Managment System\Library Managment System\obj\Debug\Library_Managment_System.Admin.resources
+C:\Users\Mr.Nobody\documents\visual studio 2015\Projects\Library Managment System\Library Managment System\obj\Debug\Library_Managment_System.Books.resources
+C:\Users\Mr.Nobody\documents\visual studio 2015\Projects\Library Managment System\Library Managment System\obj\Debug\Library_Managment_System.Issue.resources
+C:\Users\Mr.Nobody\documents\visual studio 2015\Projects\Library Managment System\Library Managment System\obj\Debug\Library_Managment_System.dialog.resources
+C:\Users\Mr.Nobody\Documents\Visual Studio 2015\Projects\Library Managment System\Library Managment System\obj\Debug\Library_Managment_System.Member.resources
+C:\Users\Mr.Nobody\Documents\Visual Studio 2015\Projects\Library Managment System\Library Managment System\obj\Debug\Library_Managment_System.Error.resources
